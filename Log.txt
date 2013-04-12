@@ -1,0 +1,7 @@
+VanSolfa development log
+========================
+
+v0.001
+------
+- Basic template created from Verily Serif Mono
+- Glyph widths adjusted to optimum

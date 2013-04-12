@@ -1,0 +1,9 @@
+Copyright (c) 2013 by Vanlalhriata. All rights reserved
+
+Permission is hereby granted to any person obtaining the font accompanying this license to use the font in commercial products; copy, distribute and modify the font provided the following conditions are met:
+
+1. This license shall be included in every unmodified copy of this font
+
+2. Any derivative of this font, original or modified, shall not be sold as a separate Font Software.
+
+3. Any modified copy of this font must not include the letter combination "van" in the name of the font
