@@ -13,3 +13,8 @@ v0.010
   (d' r' m' f' s' l' t') -> (A S D F G H J)
   (d r m f s l t) -> (a s d f g h j)
   (d, r, m, f, s, l, t,) -> (z x c v b n m)
+
+v0.011
+------
+- Fixed some validation errors
+- Generated a preliminary font
