@@ -24,3 +24,8 @@ v0.020
 - Added glyphs for one set of semitones (de re fe se le)
 - Notes location on the keyboard are:
   (de re fe se le) -> (q w e r t)
+
+v0.021
+------
+- Extended de semitones to three octaves
+- Fixed typos on Readme

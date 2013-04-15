@@ -1,6 +1,6 @@
 VanSolfa is a font designed for tonic solfa notations. It is based on the Verily Serif Mono font by Bitstream Vera.
 
-The font contains notations for three ocatve levels for the following:
+The font contains notations for three octave levels for the following:
 d r m f s l t
 (semitones:)
 de re fe se le
