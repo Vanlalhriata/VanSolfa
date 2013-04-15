@@ -9,7 +9,7 @@ v0.001
 v0.010
 ------
 - Added glyphs for three octaves of natural tones
-- Notes location on the keayboard are:
+- Notes location on the keyboard are:
   (d' r' m' f' s' l' t') -> (A S D F G H J)
   (d r m f s l t) -> (a s d f g h j)
   (d, r, m, f, s, l, t,) -> (z x c v b n m)
@@ -18,3 +18,9 @@ v0.011
 ------
 - Fixed some validation errors
 - Generated a preliminary font
+
+v0.020
+------
+- Added glyphs for one set of semitones (de re fe se le)
+- Notes location on the keyboard are:
+  (de re fe se le) -> (q w e r t)
