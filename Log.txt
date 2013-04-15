@@ -28,4 +28,7 @@ v0.020
 v0.021
 ------
 - Extended de semitones to three octaves
+- Notes location on the keyboard are:
+  (de' re' fe' se' le') -> (Q W E R T)
+  (de, re, fe, se, le,) -> (1 2 3 4 5)
 - Fixed typos on Readme
