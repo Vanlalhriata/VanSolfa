@@ -32,3 +32,9 @@ v0.021
   (de' re' fe' se' le') -> (Q W E R T)
   (de, re, fe, se, le,) -> (1 2 3 4 5)
 - Fixed typos on Readme
+
+v0.030
+------
+- Added glyphs for the other set of semitones (ra ma sa la ta)
+- Notes location on the keyboard are:
+  (ra ma sa la ta) -> (y u i o p)
