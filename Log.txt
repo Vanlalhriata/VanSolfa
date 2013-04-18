@@ -38,3 +38,10 @@ v0.030
 - Added glyphs for the other set of semitones (ra ma sa la ta)
 - Notes location on the keyboard are:
   (ra ma sa la ta) -> (y u i o p)
+
+v0.031
+------
+- Extended ra semitones to three octaves (All notes now have glyphs)
+- Notes location on the keyboard are:
+  (ra' ma' sa' la' ta') -> (Y U I O P)
+  (ra, ma, sa, la, ta,) -> (6 7 8 9 0)
